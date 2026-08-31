@@ -1,6 +1,6 @@
 ---
 title: "Working with GitHub"
-author: "Your Name"
+author: "Rebecca Huang"
 date: 2026-08-31
 projects: "guided-learning"
 keywords:
